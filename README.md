@@ -3,6 +3,8 @@
 <!--  Xyron Newell Y. Relon           -->
 <!-- =============================== -->
 
+<img src="assets/pin.png" width="15" />
+
 # Hi, I'm Xyron Newell Y. Relon <img src="assets/artificial-intelligence.png" width="26" />
 
 **BSIT Graduate** | **Web Developer** | **UI/UX & Frontend Specialist**  
