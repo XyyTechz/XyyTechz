@@ -17,12 +17,12 @@
 
 ---
 
-## 👨‍💻 Professional Summary
+## <img src="assets/briefcase.png" width="26" /> Professional Summary
 BSIT graduate and **junior-level web developer** specializing in **UI/UX fundamentals** and **frontend development**. Experienced in building responsive, user-centered **web and mobile applications** using modern JavaScript frameworks and Python-based backends. Capable of working as a **Full-Stack Developer**, **Mobile App Developer**, and **Game Developer**. Adaptable learner with hands-on project experience and strong problem-solving skills.
 
 ---
 
-## 🛠 Languages and Tools 
+## <img src="assets/tools.png" width="26" /> Languages and Tools 
 <p> 
   <img src="assets/html.png" width="50" /> 
   <img src="assets/css.png" width="50" /> 
