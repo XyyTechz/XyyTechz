@@ -50,9 +50,9 @@ A secure platform supporting Violence Against Women and Children (VAWC) case man
 
 ---
 
-## <img src="assets/phone.png" width="26" /> Connect With Me
-- 📱 Phone: +63 927 732 4050  
-- 📧 Email: relonxyronnewell@gmail.com  
+## <img src="assets/contact-us.png" width="26" /> Connect With Me 
+- Phone: +63 927 732 4050
+- Email: relonxyronnewell@gmail.com 
 
 ---
 
