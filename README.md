@@ -29,11 +29,15 @@ BSIT graduate and **junior-level web developer** specializing in **UI/UX fundame
   <img src="assets/tailwind.png" width="50" /> 
   <img src="assets/js.png" width="50" /> 
   <img src="assets/react.png" width="50" />  
+  <img src="assets/python.png" width="50" /> 
+  <img src="assets/c-.png" width="50" /> 
+  <img src="assets/c-sharp.png" width="50" /> 
+  <img src="assets/mysql.png" width="50" /> 
+  <img src="assets/php.png" width="50" />  
+  <img src="assets/elephant.png" width="50" /> 
+  <img src="assets/godot.png" width="50" /> 
+  <img src="assets/vscode.png" width="50" />  
 </p> 
-`Python` · `Django`
-`MySQL` · `PostgreSQL`
-`Godot Engine` · `GDScript` · `C++`
-`VS Code` · `GitHub / GitHub Desktop` · AI-assisted tools *(ChatGPT, Copilot, Gemini)*
 
 ---
 
