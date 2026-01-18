@@ -1,21 +1,33 @@
 <!-- =============================== -->
 <!--  GitHub Profile README          -->
-<!--  Xyron Newell Y. Relon           -->
+<!--  Xyron Newell Y. Relon          -->
 <!-- =============================== -->
 
-<img src="assets/pin.png" width="15" />
+<!-- Banner Section -->
+<div align="center">
+  <img src="assets/git_background.png" width="100%" alt="Banner" />
+</div>
 
-# Hi, I'm Xyron Newell Y. Relon <img src="assets/artificial-intelligence.png" width="26" />
+<!-- Profile Header -->
+<div align="center">
 
-**BSIT Graduate** | **Web Developer** | **UI/UX & Frontend Specialist**  
-<img src="assets/pin.png" width="15" /> Toledo City, Cebu, Philippines
+ 
+  
+  # Hi, I'm Xyron Newell Y. Relon  <img src="assets/artificial-intelligence.png" width="40" />
 
-<!-- 🔗 Social & Portfolio Links -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](#)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-critical?logo=instagram&logoColor=white)](https://www.instagram.com/xyro_nwell/)
-[![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/xyronnewell.relon)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github&logoColor=white)](https://github.com/XyyTechz)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Site-lightgrey?logo=vercel&logoColor=black)](#)
+  **BSIT Graduate** | **Web Developer** | **UI/UX & Frontend Specialist**  
+  <img src="assets/pin.png" width="15" /> Toledo City, Cebu, Philippines
+
+  <!-- Social Links -->
+  <p>
+    <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.instagram.com/xyro_nwell/"><img src="https://img.shields.io/badge/Instagram-Follow-critical?logo=instagram&logoColor=white" /></a>
+    <a href="https://www.facebook.com/xyronnewell.relon"><img src="https://img.shields.io/badge/Facebook-Profile-1877F2?logo=facebook&logoColor=white" /></a>
+    <a href="https://github.com/XyyTechz"><img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Portfolio-Site-lightgrey?logo=vercel&logoColor=black" /></a>
+  </p>
+
+</div>
 
 ---
 
@@ -25,7 +37,7 @@ BSIT graduate and **junior-level web developer** specializing in **UI/UX fundame
 ---
 
 ## <img src="assets/tools.png" width="26" /> Languages and Tools 
-<p> 
+<p align="center"> 
   <img src="assets/html.png" width="50" /> 
   <img src="assets/css.png" width="50" /> 
   <img src="assets/tailwind.png" width="50" /> 
@@ -44,13 +56,11 @@ BSIT graduate and **junior-level web developer** specializing in **UI/UX fundame
 ---
 
 ## 🚀 Selected Projects
-> *(Add screenshots using Markdown image syntax under each project)*
 
 ### 🔹 VAWSAFE — Victim Safety Monitoring System
 A mobile and web-based system designed to support **Violence Against Women and Children (VAWC) victims**. Includes secure user access, SOS alerts, case profiling, monitoring tools for social workers, and service coordination with local government units.
 
-**Tech:** React Native · Firebase · Django · PostgreSQL
-
+**Tech:** React Native · Firebase · Django · PostgreSQL  
 ![VAWSAFE Screenshot](path-to-image)
 
 ---
@@ -58,8 +68,7 @@ A mobile and web-based system designed to support **Violence Against Women and C
 ### 🔹 Smart Maintenance & Asset Reporting System
 A preventive maintenance platform with a web dashboard and mobile reporting app. Allows employees to report equipment issues with photos, receive task assignments, and view maintenance schedules. Designed for **government office operations**.
 
-**Tech:** React · Django · Python · MySQL
-
+**Tech:** React · Django · Python · MySQL  
 ![Maintenance System Screenshot](path-to-image)
 
 ---
@@ -67,17 +76,17 @@ A preventive maintenance platform with a web dashboard and mobile reporting app.
 ### 🔹 TaskFlow — Personal Productivity App
 A clean and minimal task management application focused on usability and UI clarity. Features authentication, task categorization, color-coded tasks, theme switching, and real-time updates.
 
-**Tech:** React Native · Firebase
-
+**Tech:** React Native · Firebase  
 ![TaskFlow Screenshot](path-to-image)
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XyyTechz&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XyyTechz&layout=compact&theme=github_dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=XyyTechz&show_icons=true&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XyyTechz&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
 ---
 
