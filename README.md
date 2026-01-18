@@ -61,7 +61,7 @@ BSIT graduate and **junior-level web developer** specializing in **UI/UX fundame
 Worked on the design and development of a web-based enrollment system to digitalize student registration and records management. Focused on front-end layout and form handling, database integration, and system usability to improve efficiency and data accuracy for school administrators.
 
 **Tech:** HTML · CSS · JavaScript · PHP  · MySQL 
-![VAWSAFE Screenshot](path-to-image)
+![Enrollment Screenshot](assets/enroll.png)
 
 ---
 
@@ -69,7 +69,7 @@ Worked on the design and development of a web-based enrollment system to digital
 Developed a secure case monitoring system for Violence Against Women and Children (VAWC) victims. Implemented confidential profiling, role-based access, and case tracking features, with emphasis on data privacy, ethical handling of sensitive information, and organized case documentation.
 
 **Tech:** Django · Python · PostgreSQL · Tailwind CSS · JavaScript  
-![Maintenance System Screenshot](path-to-image)
+![VAWSAFE Screenshot](assets/vawsafe.png)
 
 ---
 
@@ -77,7 +77,6 @@ Developed a secure case monitoring system for Violence Against Women and Childre
 Designed and developed a 2D shooting game using the Godot Engine. Implemented player mechanics, enemy behavior, collision detection, scoring systems, and basic game physics. Applied iterative testing and debugging to enhance gameplay performance.
 
 **Tech:** Godot Engine · GDScript  
-![TaskFlow Screenshot](path-to-image)
 
 ---
 
