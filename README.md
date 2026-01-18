@@ -57,28 +57,52 @@ BSIT graduate and **junior-level web developer** specializing in **UI/UX fundame
 
 ## <img src="assets/layers.png" width="26" /> Selected Projects
 
-### <img src="assets/dot.png" width="20" /> Website-Based Enrollment System
-Worked on the design and development of a web-based enrollment system to digitalize student registration and records management. Focused on front-end layout and form handling, database integration, and system usability to improve efficiency and data accuracy for school administrators.
+<table> 
+  <tr> 
+    <td width="60%"> 
+      <h3><img src="assets/dot.png" width="20" /> Website-Based Enrollment System</h3> 
+      <p> 
+        Worked on the design and development of a web-based enrollment system to digitalize student registration and records management. Focused on front-end layout and form handling, database integration, and system usability to improve efficiency and data accuracy for school administrators. 
+      </p> 
+      <b>Tech:</b> HTML · CSS · JavaScript · PHP · MySQL 
+    </td> 
+    <td width="40%"> 
+      <img src="assets/enroll.png" alt="Enrollment Screenshot" width="100%" /> 
+    </td> 
+  </tr> 
+</table> 
 
-<img src="assets/enroll.png" alt="Banner" width="75%" />
+--- 
 
-**Tech:** HTML · CSS · JavaScript · PHP  · MySQL 
+<table> 
+  <tr> 
+    <td width="60%"> 
+      <h3><img src="assets/dot.png" width="20" /> Case Monitoring and Confidential Profiling System</h3> 
+      <p> 
+        Developed a secure case monitoring system for Violence Against Women and Children (VAWC) victims. Implemented confidential profiling, role-based access, and case tracking features, with emphasis on data privacy, ethical handling of sensitive information, and organized case documentation. 
+      </p> 
+      <b>Tech:</b> Django · Python · PostgreSQL · Tailwind CSS · JavaScript 
+    </td> 
+    <td width="40%"> 
+      <img src="assets/vawsafe.png" alt="VAWSAFE Screenshot" width="100%" /> 
+    </td> 
+  </tr> 
+</table>
 
----
+--- 
 
-### <img src="assets/dot.png" width="20" /> Case Monitoring and Confidential Profiling System
-Developed a secure case monitoring system for Violence Against Women and Children (VAWC) victims. Implemented confidential profiling, role-based access, and case tracking features, with emphasis on data privacy, ethical handling of sensitive information, and organized case documentation.
-  
-![VAWSAFE Screenshot](assets/vawsafe.png)
-
-**Tech:** Django · Python · PostgreSQL · Tailwind CSS · JavaScript
-
----
-
-### <img src="assets/dot.png" width="20" /> 2D Shooting Game
-Designed and developed a 2D shooting game using the Godot Engine. Implemented player mechanics, enemy behavior, collision detection, scoring systems, and basic game physics. Applied iterative testing and debugging to enhance gameplay performance.
-
-**Tech:** Godot Engine · GDScript  
+<table> 
+  <tr> 
+    <td width="60%"> 
+      <h3><img src="assets/dot.png" width="20" /> 2D Shooting Game</h3> 
+      <p> 
+        Designed and developed a 2D shooting game using the Godot Engine. Implemented player mechanics, enemy behavior, collision detection, scoring systems, and basic game physics. Applied iterative testing and debugging to enhance gameplay performance. 
+      </p> 
+      <b>Tech:</b> Godot Engine · GDScript 
+    </td> 
+    <td width="40%"> 
+  </tr> 
+</table>
 
 ---
 
