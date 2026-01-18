@@ -6,7 +6,7 @@
 # Hi, I'm Xyron Newell Y. Relon 👋
 
 **BSIT Graduate** | **Web Developer** | **UI/UX & Frontend Specialist**  
-📍 Toledo City, Cebu, Philippines
+<img src="assets/pin.png" width="15" /> Toledo City, Cebu, Philippines
 
 <!-- 🔗 Social & Portfolio Links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](#)
