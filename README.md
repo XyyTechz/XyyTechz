@@ -13,7 +13,7 @@
 
  
   
-  # Hi, I'm Xyron Newell Y. Relon  <img src="assets/artificial-intelligence.png" width="40" />
+  # Hi <img src="assets/robot.png" width="40" />, I'm Xyron Newell Y. Relon  
 
   **BSIT Graduate** | **Web Developer** | **UI/UX & Frontend Specialist**  
   <img src="assets/pin.png" width="15" /> Toledo City, Cebu, Philippines
@@ -57,26 +57,26 @@ BSIT graduate and **junior-level web developer** specializing in **UI/UX fundame
 
 ## 🚀 Selected Projects
 
-### 🔹 VAWSAFE — Victim Safety Monitoring System
-A mobile and web-based system designed to support **Violence Against Women and Children (VAWC) victims**. Includes secure user access, SOS alerts, case profiling, monitoring tools for social workers, and service coordination with local government units.
+### 🔹 Website-Based Enrollment System
+Worked on the design and development of a web-based enrollment system to digitalize student registration and records management. Focused on front-end layout and form handling, database integration, and system usability to improve efficiency and data accuracy for school administrators.
 
-**Tech:** React Native · Firebase · Django · PostgreSQL  
+**Tech:** HTML · CSS · JavaScript · PHP  · MySQL 
 ![VAWSAFE Screenshot](path-to-image)
 
 ---
 
-### 🔹 Smart Maintenance & Asset Reporting System
-A preventive maintenance platform with a web dashboard and mobile reporting app. Allows employees to report equipment issues with photos, receive task assignments, and view maintenance schedules. Designed for **government office operations**.
+### 🔹 Case Monitoring and Confidential Profiling System
+Developed a secure case monitoring system for Violence Against Women and Children (VAWC) victims. Implemented confidential profiling, role-based access, and case tracking features, with emphasis on data privacy, ethical handling of sensitive information, and organized case documentation.
 
-**Tech:** React · Django · Python · MySQL  
+**Tech:** Django · Python · PostgreSQL · Tailwind CSS · JavaScript  
 ![Maintenance System Screenshot](path-to-image)
 
 ---
 
-### 🔹 TaskFlow — Personal Productivity App
-A clean and minimal task management application focused on usability and UI clarity. Features authentication, task categorization, color-coded tasks, theme switching, and real-time updates.
+### 🔹 2D Shooting Game
+Designed and developed a 2D shooting game using the Godot Engine. Implemented player mechanics, enemy behavior, collision detection, scoring systems, and basic game physics. Applied iterative testing and debugging to enhance gameplay performance.
 
-**Tech:** React Native · Firebase  
+**Tech:** Godot Engine · GDScript  
 ![TaskFlow Screenshot](path-to-image)
 
 ---
