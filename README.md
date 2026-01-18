@@ -55,32 +55,34 @@ BSIT graduate and **junior-level web developer** specializing in **UI/UX fundame
 
 ---
 
-## 🚀 Selected Projects
+## <img src="assets/layers.png" width="26" /> Selected Projects
 
-### 🔹 Website-Based Enrollment System
+### <img src="assets/dot.png" width="20" /> Website-Based Enrollment System
 Worked on the design and development of a web-based enrollment system to digitalize student registration and records management. Focused on front-end layout and form handling, database integration, and system usability to improve efficiency and data accuracy for school administrators.
 
+<img src="assets/enroll.png" alt="Banner" width="75%" />
+
 **Tech:** HTML · CSS · JavaScript · PHP  · MySQL 
-![Enrollment Screenshot](assets/enroll.png)
 
 ---
 
-### 🔹 Case Monitoring and Confidential Profiling System
+### <img src="assets/dot.png" width="20" /> Case Monitoring and Confidential Profiling System
 Developed a secure case monitoring system for Violence Against Women and Children (VAWC) victims. Implemented confidential profiling, role-based access, and case tracking features, with emphasis on data privacy, ethical handling of sensitive information, and organized case documentation.
-
-**Tech:** Django · Python · PostgreSQL · Tailwind CSS · JavaScript  
+  
 ![VAWSAFE Screenshot](assets/vawsafe.png)
 
+**Tech:** Django · Python · PostgreSQL · Tailwind CSS · JavaScript
+
 ---
 
-### 🔹 2D Shooting Game
+### <img src="assets/dot.png" width="20" /> 2D Shooting Game
 Designed and developed a 2D shooting game using the Godot Engine. Implemented player mechanics, enemy behavior, collision detection, scoring systems, and basic game physics. Applied iterative testing and debugging to enhance gameplay performance.
 
 **Tech:** Godot Engine · GDScript  
 
 ---
 
-## 📊 GitHub Stats
+## <img src="assets/graph.png" width="26" /> GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=XyyTechz&show_icons=true&theme=github_dark&hide_border=true" />
@@ -89,7 +91,7 @@ Designed and developed a 2D shooting game using the Godot Engine. Implemented pl
 
 ---
 
-## 🌱 Currently Learning
+## <img src="assets/library.png" width="26" /> Currently Learning
 - Advanced React patterns and state management  
 - UI/UX accessibility and design systems  
 - Performance optimization  
@@ -97,7 +99,7 @@ Designed and developed a 2D shooting game using the Godot Engine. Implemented pl
 
 ---
 
-## 📁 Recommended Side Project Repositories
+## <img src="assets/open-folder.png" width="26" /> Recommended Side Project Repositories
 - `uiux-playground`
 - `react-mini-projects`
 - `django-practice-labs`
@@ -106,7 +108,4 @@ Designed and developed a 2D shooting game using the Godot Engine. Implemented pl
 
 ---
 
-## 👋 Casual / Open-Source Bio
-Hey! I’m Xyron — a frontend-focused developer who enjoys building clean interfaces, experimenting with side projects, and learning by doing. I mostly work with **React**, **Django**, and **mobile apps**, and I also explore **game development using Godot**. Always open to collaboration and new ideas.
-
-⭐ Thanks for visiting my profile!
+<img src="assets/artificial-intelligence.png" width="20" />  Thanks for visiting my profile!
