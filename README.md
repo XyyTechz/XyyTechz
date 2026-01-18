@@ -22,21 +22,17 @@ BSIT graduate and **junior-level web developer** specializing in **UI/UX fundame
 
 ---
 
-## 🛠 Tech Stack
-
-**Frontend**  
-`HTML5` · `CSS3` · `Tailwind CSS` · `JavaScript (ES6+)` · `React` · `React Native`
-
-**Backend**  
+## 🛠 Languages and Tools 
+<p> 
+  <img src="assets/html.png" width="50" /> 
+  <img src="assets/css.png" width="50" /> 
+  <img src="assets/tailwind.png" width="50" /> 
+  <img src="assets/js.png" width="50" /> 
+  <img src="assets/react.png" width="50" />  
+</p> 
 `Python` · `Django`
-
-**Database**  
 `MySQL` · `PostgreSQL`
-
-**Game Development**  
 `Godot Engine` · `GDScript` · `C++`
-
-**Tools & Workflow**  
 `VS Code` · `GitHub / GitHub Desktop` · AI-assisted tools *(ChatGPT, Copilot, Gemini)*
 
 ---
@@ -93,15 +89,6 @@ A clean and minimal task management application focused on usability and UI clar
 - `django-practice-labs`
 - `mobile-app-experiments`
 - `godot-game-jams`
-
----
-
-## 📫 Contact
-- 📧 **Email:** relonxyronnewell@gmail.com  
-- 🌐 **Facebook:** https://www.facebook.com/xyronnewell.relon  
-- 📸 **Instagram:** https://www.instagram.com/xyro_nwell/  
-
-*(LinkedIn will be added soon)*
 
 ---
 
